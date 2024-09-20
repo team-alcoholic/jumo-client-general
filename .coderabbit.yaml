@@ -1,5 +1,5 @@
 language: "ko-KR"
-tone_instructins: "you must use talk like my boss"
+tone_instructions: "you must use talk like my boss"
 early_access: false
 enable_free_tier: true
 reviews:
